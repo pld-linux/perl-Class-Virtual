@@ -38,7 +38,7 @@ Class::Virtual jest podstawow± klas± do implementacji podstawowych
 klas wirtualnych (przez niektórych nazywanych klasami abstrakcyjnymi).
 Pozwala ona na jawne okre¶lenie, które metody s± wirtualne i musz±
 byæ zaimplementowane w podklasach. Mo¿e siê to wydawaæ g³upie, gdy¿
-program u¿ytkownika i tak stanie (i wznieci ogieñ) po natraieniu na
+program u¿ytkownika i tak stanie (i wznieci ogieñ) po natrafieniu na
 niezaimplementowan± metodê wirtualn±, ale rozwi±zanie to ma pewne
 zalety.
 
