@@ -2,22 +2,7 @@
 %define		pdir	Class
 %define		pnam	Virtual
 Summary:	Class::Virtual Perl module - Base class for virtual base classes
-Summary(cs):	Modul Class::Virtual pro Perl
-Summary(da):	Perlmodul Class::Virtual
-Summary(de):	Class::Virtual Perl Modul
-Summary(es):	Módulo de Perl Class::Virtual
-Summary(fr):	Module Perl Class::Virtual
-Summary(it):	Modulo di Perl Class::Virtual
-Summary(ja):	Class::Virtual Perl ¥â¥¸¥å¡¼¥ë
-Summary(ko):	Class::Virtual ÆŞ ¸ğÁÙ
-Summary(no):	Perlmodul Class::Virtual
-Summary(pl):	Modu³ perla Class::Virtual - podstawowa klasa do implementacji podstawowych klas wirtualnych
-Summary(pt_BR):	Módulo Perl Class::Virtual
-Summary(pt):	Módulo de Perl Class::Virtual
-Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl Class::Virtual
-Summary(sv):	Class::Virtual Perlmodul
-Summary(uk):	íÏÄÕÌØ ÄÌÑ Perl Class::Virtual
-Summary(zh_CN):	Class::Virtual Perl Ä£¿é
+Summary(pl):	Class::Virtual - podstawowa klasa do implementacji podstawowych klas wirtualnych
 Name:		perl-Class-Virtual
 Version:	0.03
 Release:	1
