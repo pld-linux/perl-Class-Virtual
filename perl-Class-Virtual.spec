@@ -6,7 +6,7 @@ Summary(pl):	Modu³ Perla Class::Virtual - podstawowa klasa do implementacji pods
 Name:		perl-Class-Virtual
 Version:	0.04
 Release:	1
-License:	?
+License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	e3c1102f97a50904da1240f3f67446e4
