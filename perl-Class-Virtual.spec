@@ -20,6 +20,7 @@ BuildRequires:	perl-Class-ISA
 BuildRequires:	perl-enum
 %if %{with tests}
 BuildRequires:	perl-Carp-Assert
+BuildRequires:	perl-Class-Data-Inheritable
 %endif
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
