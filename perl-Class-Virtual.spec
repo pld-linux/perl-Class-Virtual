@@ -18,7 +18,7 @@ BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-devel >= 5.6
 BuildRequires:	perl-Class-ISA
 BuildRequires:	perl-enum
-%if {with tests}
+%if %{with tests}
 BuildRequires:	perl-Carp-Assert
 %endif
 BuildArch:	noarch
