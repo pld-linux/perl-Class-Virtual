@@ -8,12 +8,12 @@
 Summary:	Class::Virtual Perl module - base class for virtual base classes
 Summary(pl):	Modu³ Perla Class::Virtual - podstawowa klasa do implementacji podstawowych klas wirtualnych
 Name:		perl-Class-Virtual
-Version:	0.04
-Release:	2
+Version:	0.05
+Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	e3c1102f97a50904da1240f3f67446e4
+# Source0-md5:	1f432ec51aea1f402467a9959eb863b0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	perl-Class-ISA
