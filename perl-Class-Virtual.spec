@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Class
-%define		pnam	Virtual
+%define	pdir	Class
+%define	pnam	Virtual
 Summary:	Class::Virtual Perl module - base class for virtual base classes
 Summary(pl):	Modu³ Perla Class::Virtual - podstawowa klasa do implementacji podstawowych klas wirtualnych
 Name:		perl-Class-Virtual
