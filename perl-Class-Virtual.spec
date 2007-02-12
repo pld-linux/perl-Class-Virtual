@@ -6,7 +6,7 @@
 %define		pdir	Class
 %define		pnam	Virtual
 Summary:	Class::Virtual Perl module - base class for virtual base classes
-Summary(pl):	Modu³ Perla Class::Virtual - podstawowa klasa do implementacji podstawowych klas wirtualnych
+Summary(pl.UTF-8):   ModuÅ‚ Perla Class::Virtual - podstawowa klasa do implementacji podstawowych klas wirtualnych
 Name:		perl-Class-Virtual
 Version:	0.05
 Release:	2
@@ -33,13 +33,13 @@ implemented by subclasses.  This might seem silly, since your program
 will halt and catch fire when an unimplemented virtual method is hit
 anyway, but there are some benefits.
 
-%description -l pl
-Class::Virtual jest podstawow± klas± do implementacji podstawowych
-klas wirtualnych (przez niektórych nazywanych klasami abstrakcyjnymi).
-Pozwala ona na jawne okre¶lenie, które metody s± wirtualne i musz±
-byæ zaimplementowane w podklasach. Mo¿e siê to wydawaæ g³upie, gdy¿
-program u¿ytkownika i tak stanie (i wznieci ogieñ) po natrafieniu na
-niezaimplementowan± metodê wirtualn±, ale rozwi±zanie to ma pewne
+%description -l pl.UTF-8
+Class::Virtual jest podstawowÄ… klasÄ… do implementacji podstawowych
+klas wirtualnych (przez niektÃ³rych nazywanych klasami abstrakcyjnymi).
+Pozwala ona na jawne okreÅ›lenie, ktÃ³re metody sÄ… wirtualne i muszÄ…
+byÄ‡ zaimplementowane w podklasach. MoÅ¼e siÄ™ to wydawaÄ‡ gÅ‚upie, gdyÅ¼
+program uÅ¼ytkownika i tak stanie (i wznieci ogieÅ„) po natrafieniu na
+niezaimplementowanÄ… metodÄ™ wirtualnÄ…, ale rozwiÄ…zanie to ma pewne
 zalety.
 
 %prep
