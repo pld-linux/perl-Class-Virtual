@@ -13,12 +13,13 @@ Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	1f432ec51aea1f402467a9959eb863b0
-BuildRequires:	rpm-perlprov >= 4.1-13
-BuildRequires:	perl-devel >= 1:5.8.0
+URL:		http://search.cpan.org/dist/Class-Virtual/
 BuildRequires:	perl-Class-ISA
+BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	perl-enum
+BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
 BuildRequires:	perl-Carp-Assert
 BuildRequires:	perl-Class-Data-Inheritable
